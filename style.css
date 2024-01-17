@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+    /* display: flex; */
+    justify-content: center;
+    margin: 0px;
+    background-image: url("https://e0.pxfuel.com/wallpapers/521/861/desktop-wallpaper-abstract-red-blue-blur-abstract-background-and-blue-and-red-abstract.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:aliceblue;
+}
+
+#color{
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    margin: 5rem auto;
+    border-radius: 100%;
+    background-color: rgba(173, 88, 181, 0.185);
+}
+
+.nav{
+    display: flex;
+    background-color: rgba(194, 131, 219, 0.5);
+    height: 5rem;
+}
+
+i{
+    margin-left: 2rem;
+    margin-top: 1.25rem;
+    /* height: 4rem;
+    width: 4rem; */
+    font-size: 2rem;
+}
+
+.options{
+    margin-left: 70rem;
+    font-size: 1.9rem;
+    
+}
+
+button{
+    border-radius: 2rem;
+    height: 2rem;
+}
